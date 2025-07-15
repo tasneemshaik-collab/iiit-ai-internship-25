@@ -1,0 +1,5 @@
+train: ./images/train
+val: ./images/val
+
+nc: 1  # number of classes
+names: ['ulcer']  # update this based on your Label Studio class

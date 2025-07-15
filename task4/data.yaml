@@ -1,0 +1,8 @@
+path: ./cricket_dataset
+train: images/train
+val: images/val
+names:
+  0: bat
+  1: player
+  2: umpire
+  3: wicket
